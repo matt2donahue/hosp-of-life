@@ -1,0 +1,30 @@
+123456, John Doe, 01/01/2001, 172, headache
+654321, Jane Doe, 02/02/2002, 165, liver transplant
+234561, John Adams, 05/23/1752, 184, old age
+378283, Ben Franklin, 04/12/1749, 86, struck by lightning
+937492, Guy Fieri, 07/21/1972, 204, flavortown was too intense
+121212, Shakira, 02/02/1977, 12, hips won't lie
+867530, Elvis Presley, 01/08/1935, 55, all shook up
+638756, Roger Federer, 08/08/1981, 118, tennis ball to the face
+095135, Usain Bolt, 08/21/1989, 212, windburn
+713975, J.R.R Tolkien, 01/03/1892, 36, hand cramp
+006237, Tom Cruise, 06/09/1953, 73, need for speed not satisfied
+484842, Mary Poppins, 11/27/1976, 160, choked on spoonful of sugar
+970918, Buzz Lightyear, 02/29/1968, 4, tried to fly
+022188, Anakin Skywalker, 07/19/1930, 194, fell in lava
+052113, Indiana Jones, 09/19/1984, 33, runover by boulder
+558539, Batman, 01/12/1956, 38, back broken by Bane
+829877, Michael Corleone, 06/27/1976, 217, stroke
+026267, Marty McFly, 10/04/1991, 89, time travel complications
+553430, Tony Stark, 11/27/1933, 161, arc reactor failure
+178158, Jack Sparrow, 04/26/1964, 109, swordfight wound
+902329, Hannibal Lecter, 05/03/1929, 92, digestive track discomfort
+740671, Beatrix Kiddo, 04/08/1970, 223, coma
+641483, Gandalf, 12/27/1974, 18, bowel movement would not pass
+597537, Rocky Balboa, 06/22/1869, 42, black eye
+920443, Peter Parker, 11/19/1966, 67, doesn't feel to good
+310466, Harry Potter, 11/13/1985, 118, swollowed golden snitch
+395260, Vizzini, 02/04/1986, 80, drank poison
+150409, Wiley Coyote, 03/30/1989, 188, ran off a cliff
+703791, Mike Wasowski, 09/26/1954, 106, eye exam
+475041, Dory, 02/07/1969, 27, short term memory loss
